@@ -1,0 +1,47 @@
+{
+  "version": 1,
+  "cities": {
+    "calgary": {
+      "generatedAt": "2026-11-14T04:37:20.635Z",
+      "feedStart": "20261013",
+      "feedEnd": "20261220",
+      "trips": 2629,
+      "bytes": 148039
+    },
+    "montreal": {
+      "generatedAt": "2026-11-08T17:15:35.792Z",
+      "feedStart": "20260824",
+      "feedEnd": "20270103",
+      "trips": 16742,
+      "bytes": 967754
+    },
+    "ottawa": {
+      "generatedAt": "2026-11-14T04:38:41.508Z",
+      "feedStart": "20261113",
+      "feedEnd": "20261213",
+      "trips": 2353,
+      "bytes": 110592
+    },
+    "toronto": {
+      "generatedAt": "2026-11-05T04:41:23.092Z",
+      "feedStart": "20261104",
+      "feedEnd": "20261127",
+      "trips": 17212,
+      "bytes": 1440035
+    },
+    "vancouver": {
+      "generatedAt": "2026-11-14T04:38:49.561Z",
+      "feedStart": "20260907",
+      "feedEnd": "20270103",
+      "trips": 5409,
+      "bytes": 409157
+    },
+    "waterloo": {
+      "generatedAt": "2026-11-04T06:29:36.404Z",
+      "feedStart": "20260705",
+      "feedEnd": "20280703",
+      "trips": 473,
+      "bytes": 100845
+    }
+  }
+}

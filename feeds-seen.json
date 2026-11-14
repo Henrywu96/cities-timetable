@@ -1,0 +1,24 @@
+{
+  "calgary": {
+    "https://data.calgary.ca/download/npk7-z3bj/application%2Fzip": "\"4188a776-38a1-4696-88ab-5d83681d82ee\" | 10039995"
+  },
+  "montreal": {
+    "https://files.mobilitydatabase.org/mdb-748/latest.zip": "\"7f3f7074556f4d20783f8aa4887309d1\" | Fri, 25 Sep 2026 00:01:55 GMT | 113629",
+    "https://www.stm.info/sites/default/files/gtfs/gtfs_stm.zip": "\"639292991429085952\" | Tue, 03 Nov 2026 15:39:02 GMT | 69093778"
+  },
+  "ottawa": {
+    "https://oct-gtfs-emasagcnfmcgeham.z01.azurefd.net/public-access/GTFSExport.zip": "0x8DF4122F859B2C5 | Fri, 13 Nov 2026 01:10:56 GMT | 30243147"
+  },
+  "toronto": {
+    "https://assets.metrolinx.com/raw/upload/Documents/Metrolinx/Open%20Data/GO-GTFS.zip": "\"c4e6f7d75d2e3354b1363db5801a0784\" | Thu, 05 Nov 2026 03:40:56 GMT | 10704467",
+    "https://assets.metrolinx.com/raw/upload/Documents/Metrolinx/Open%20Data/UP-GTFS.zip": "\"b1d41804fa167afd3738741c1a52ee5d\" | Fri, 30 Oct 2026 18:27:25 GMT | 896175",
+    "https://opendata.toronto.ca/toronto.transit.commission/ttc-routes-and-schedules/OpenData_TTC_Schedules.zip": "\"1bb2880-65f86db2914c0\" | Thu, 05 Nov 2026 12:44:27 GMT | 29042816",
+    "https://www.viarail.ca/sites/all/files/gtfs/viarail.zip": "\"fa683-65f4a876d3c81\" | Mon, 02 Nov 2026 12:46:04 GMT | 1025667"
+  },
+  "vancouver": {
+    "https://gtfs-static.translink.ca/gtfs/google_transit.zip": "Fri, 13 Nov 2026 13:37:51 GMT | 16150265"
+  },
+  "waterloo": {
+    "https://webapps.regionofwaterloo.ca/api/grt-routes/api/staticfeeds/2": "87117"
+  }
+}
